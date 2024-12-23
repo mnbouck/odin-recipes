@@ -1,1 +1,2 @@
 # odin-recipes
+This is a small project where i made a page linking to three different recipe pages. i practiced very basic html skills here: creating lists, links, and adding pictures to a page. i added a source to the bottom of each recipe page. the main page looked really cramped and was bothering me so i added additional pictures above the links to space things out and make it look a bit better
